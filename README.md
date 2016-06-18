@@ -1,6 +1,6 @@
 ## Get the Data
 
-Download from github https://github.com/mpotter54/ExData_Plotting1
+Download from github https://github.com/mpotter54/Peer1Assignment
 <br />
 Copy plot1.R, plot2.R, plot3.R, plot4.R to C:\PeerAssign1 from downloaded git
 <br />
